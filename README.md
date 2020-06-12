@@ -1,2 +1,1 @@
-# ej1
-asdasda
+#Repositorio de ejemplo para juego 2d
